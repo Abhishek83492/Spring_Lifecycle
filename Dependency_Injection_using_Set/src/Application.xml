@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  
+    xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:p="http://www.springframework.org/schema/p"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans  
+ http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"> 
+ 
+ <bean id="answer" class="com.set.Answer">
+ <constructor-arg value="201"></constructor-arg>
+ <constructor-arg value="Aditya"></constructor-arg>
+ 
+ <constructor-arg>
+ <set>
+ <value>I am the king</value>
+ <value>I am the boss</value>
+ <value>I have the power</value>
+ <value>I am the king</value>
+ <!-- if you provide duplicate values then only one duplicate value should be run -->
+ </set>
+ 
+ 
+ </constructor-arg>
+ 
+ 
+ 
+ 
+ 
+ </bean>
+ </beans>

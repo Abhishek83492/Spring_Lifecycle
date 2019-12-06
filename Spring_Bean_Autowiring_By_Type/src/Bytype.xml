@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+<bean id="custo" class="com.type.Customer" autowire="byType">
+<property name="custoid" value="501"/>
+<property name="custoname" value="Abhishek"/>
+</bean>
+
+<bean id="Something" class="com.type.Bank">
+<property name="bankid" value="601"/>
+<property name="bankname" value="Aditya"/>
+</bean>
+
+<!--<bean id="Anything" class="com.type.Bank">
+<property name="bankid" value="602"/>
+<property name="bankname" value="Anand"/>
+</bean>-->
+
+</beans>

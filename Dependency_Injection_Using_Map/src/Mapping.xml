@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="map" class="com.map.Mapping">
+<constructor-arg value="501"></constructor-arg>
+<constructor-arg value="Arman"></constructor-arg>
+
+<constructor-arg>
+<map>
+<entry key="201">
+<value>Arman_malik</value>
+</entry>
+
+<entry key="202">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+<value>Abhishek_Gupta</value>
+</entry>
+
+<entry key="203">
+<value>Aashis_pagare</value>
+</entry>
+
+<entry key="203">
+<value>hii</value>
+</entry>
+</map>
+
+
+</constructor-arg>
+
+
+</bean>
+
+
+</beans>

@@ -32,7 +32,6 @@ System.out.println("testing");
 public static void main(String args[])
 {
 System.out.println("shashank");
-System.out.println("vijay")
 System.out.println("Deepak katariya");
 
 }

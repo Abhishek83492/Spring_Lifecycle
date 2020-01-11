@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
 
->>>>>>> b77a57c10d4c1889be72215635e3e2485b2c6d80
 public static void main(String args[]){
 System.out.println("vijay");
 System.out.println("Arun");
@@ -21,32 +15,31 @@ System.out.println("rajesh morya");
 System.out.println("shashank");
 System.out.println("ronak");
 System.out.println("shashank tiwari");
-<<<<<<< HEAD
-=======
+
+
 public static void main(String args[])
 {
 System.out.println("shashank");
 
->>>>>>> Stashed changes
-=======
-System.out.println("testing");
 
+System.out.println("testing");
+System.out.println("testing");
+System.out.println("testing");
+System.out.println("testing");
 public static void main(String args[])
 {
 System.out.println("shashank");
 System.out.println("Deepak katariya");
 system.out.println("Abhishek gupta");
-=======
+
 public static void main(String args[])
 {
 System.out.println("shashank");
 System.out.println("Deepak");
->>>>>>> Stashed changes
-=======
+
 public static void main(String args[])
 {
 System.out.println("shashank");
 System.out.println("Deepak");
->>>>>>> Stashed changes
 
 }

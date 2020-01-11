@@ -24,7 +24,7 @@ System.out.println("shashank tiwari");
 public static void main(String args[])
 {
 System.out.println("shashank");
-System.out.println("Deepak");
+
 >>>>>>> Stashed changes
 =======
 System.out.println("testing");

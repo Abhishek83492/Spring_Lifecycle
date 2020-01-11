@@ -33,6 +33,6 @@ public static void main(String args[])
 {
 System.out.println("shashank");
 System.out.println("vijay")
->>>>>>> b77a57c10d4c1889be72215635e3e2485b2c6d80
+System.out.println("Deepak katariya");
 
 }

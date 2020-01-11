@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
@@ -34,5 +35,11 @@ public static void main(String args[])
 System.out.println("shashank");
 System.out.println("Deepak katariya");
 system.out.println("Abhishek gupta");
+=======
+public static void main(String args[])
+{
+System.out.println("shashank");
+System.out.println("Deepak");
+>>>>>>> Stashed changes
 
 }
